@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-⚡ Fun fact: 🎉 Ansible is amazing! 🎉
+⚡ Fun fact: 🎉 Ansible 2.9 is amazing! 🎉
 
 :space_invader: :space_invader: :space_invader: :space_invader:
 
